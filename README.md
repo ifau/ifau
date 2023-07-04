@@ -6,18 +6,24 @@ Email: [e.seliverstov@outlook.com](mailto:e.seliverstov@outlook.com?subject=[Git
 
 LinkedIn: [linkedin.com/in/e-seliverstov/](https://www.linkedin.com/in/e-seliverstov/)
 
-Some of projects I worked on:
+<details>
+<summary>Some of projects I worked on</summary>
 
 #### 1. Making credit card payments using an iOS device as a terminal
 
 It uses an external terminal connected using the Lightning port, but all the transaction processing and communication with the bank are done on the iOS host device.
 
-[![YouTube video thumbnail with demonstation of contactless payment using Apple Pay](http://img.youtube.com/vi/U2OHcsi1pm8/0.jpg)](http://www.youtube.com/watch?v=U2OHcsi1pm8 "Demo 1: Contactless payment using Apple Pay, YouTube video 0:33 duration")
-
-<details>
-  <summary>Demo 2: Contact payment, YouTube video 0:36 duration</summary>
-[![YouTube video thumbnail with demonstation of contact payment](http://img.youtube.com/vi/lbbSYo0pvcE/0.jpg)](http://www.youtube.com/watch?v=lbbSYo0pvcE "Demo 2: Contact payment, YouTube video 0:36 duration")
-</details>
+<table>
+<tbody>
+<tr>
+<td><a href="http://www.youtube.com/watch?v=U2OHcsi1pm8"><img src="http://img.youtube.com/vi/U2OHcsi1pm8/0.jpg" alt="YouTube video thumbnail with demonstation of contactless payment using Apple Pay"></a>
+<br>Demo 1: Contactless payment using Apple Pay, YouTube video 0:33 duration
+</td>
+<td><a href="http://www.youtube.com/watch?v=lbbSYo0pvcE"><img src="http://img.youtube.com/vi/lbbSYo0pvcE/0.jpg" alt="YouTube video thumbnail with demonstation of contact payment"></a>
+<br>Demo 2: Contact payment, YouTube video 0:36 duration</td>
+</tr>
+</tbody>
+</table>
 
 I implemented direct integration with SmartVista, OpenWay, and TranzWare Online payment processing systems. As a result, it works with almost every bank worldwide.
 
