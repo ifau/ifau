@@ -33,6 +33,16 @@ I also rewrote this project in Java, making it available for Android, Windows, a
 
 ![A photo with an retail employee scanning the product using an iPhone](./Resources/retail_demo_1.jpg)
 
+<table>
+<tbody>
+<tr>
+<td><img src="./Resources/retail_sceen_1.png" alt="Screenshot of the print product label screen"></a></td>
+<td><img src="./Resources/retail_sceen_2.png" alt="Screenshot of the stock availability screen"></a></td>
+<td><img src="./Resources/retail_sceen_3.png" alt="Screenshot of the order screen"></a></td>
+</tr>
+</tbody>
+</table>
+
 App that helps employees perform their tasks, such as printing price tags and product labels, conducting inventory, shipping and receiving products, managing sales and deliveries, etc. This not only saves employees valuable time but also translates into significant cost savings for the companies.
 
 I worked on this project for more than three years as a solo developer and significantly improved it's functionality and stability.
