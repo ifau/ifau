@@ -9,7 +9,7 @@ LinkedIn: [linkedin.com/in/e-seliverstov/](https://www.linkedin.com/in/e-seliver
 <details>
 <summary>Some of projects I worked on</summary>
 
-#### 1. Making credit card payments using an iOS device as a terminal
+### 1. Making credit card payments using an iOS device as a terminal
 
 It uses an external terminal connected using the Lightning port, but all the transaction processing and communication with the bank are done on the iOS host device.
 
@@ -29,7 +29,7 @@ I implemented direct integration with SmartVista, OpenWay, and TranzWare Online 
 
 I also rewrote this project in Java, making it available for Android, Windows, and Linux.
 
-#### 2. Automation of internal business processes for large retail stores
+### 2. Automation of internal business processes for large retail stores
 
 ![A photo with an retail employee scanning the product using an iPhone](./Resources/retail_demo_1.jpg)
 
