@@ -1,10 +1,10 @@
-Hi, my name is Evgeny.
+Hello Everyone, <br>
+I'm Evgeny, an iOS developer who puts all of my effort and energy to building apps with the best possible user experience and code quality. 
 
-I'm an iOS developer with over 6+ years of experience, and I'm currently looking for a job (remote or relocation). Feel free to contact me:
+Always open for new opportunities, feel free to reach out to me:
 
-Email: [e.seliverstov@outlook.com](mailto:e.seliverstov@outlook.com?subject=[GitHub]%20iOS%20Developer%20position)
-
-LinkedIn: [linkedin.com/in/e-seliverstov/](https://www.linkedin.com/in/e-seliverstov/)
+- Email: [e.seliverstov@outlook.com](mailto:e.seliverstov@outlook.com?subject=[GitHub]%20iOS%20Developer%20position)
+- LinkedIn: [linkedin.com/in/e-seliverstov/](https://www.linkedin.com/in/e-seliverstov/)
 
 <details>
 <summary>Some of projects I worked on</summary>
