@@ -29,16 +29,16 @@ I implemented direct integration with SmartVista, OpenWay, and TranzWare Online 
 
 I also rewrote this project in Java, making it available for Android, Windows, and Linux.
 
-### 2. Automation of internal business processes for large retail stores
+### 2. Automation of internal business processes for retail stores
 
-![A photo with an retail employee scanning the product using an iPhone](./Resources/retail_demo_1.jpg)
+![A photo with an retail employee scanning the product using an iPhone](https://github.com/ifau/ifau/assets/3402520/8b2041f7-f7f0-4208-b032-990080a53b60)
 
 <table>
 <tbody>
 <tr>
-<td><img src="./Resources/retail_sceen_1.png" alt="Screenshot of the print product label screen"></a></td>
-<td><img src="./Resources/retail_sceen_2.png" alt="Screenshot of the stock availability screen"></a></td>
-<td><img src="./Resources/retail_sceen_3.png" alt="Screenshot of the order screen"></a></td>
+<td><img src="https://github.com/ifau/ifau/assets/3402520/a3a2f180-a324-4a94-b6ae-de3cee99f755" alt="Screenshot of the print product label screen"></a></td>
+<td><img src="https://github.com/ifau/ifau/assets/3402520/d002e8a6-72a4-4868-b538-8f0b6bae6e20" alt="Screenshot of the stock availability screen"></a></td>
+<td><img src="https://github.com/ifau/ifau/assets/3402520/fb42d7b7-b00a-44a5-9aa2-893cbe8b7a18" alt="Screenshot of the order screen"></a></td>
 </tr>
 </tbody>
 </table>
