@@ -1,15 +1,11 @@
-Hello Everyone, <br>
-I'm Evgeny, an iOS developer who puts all of my effort and energy to building apps with the best possible user experience and code quality. 
-
-Always open for new opportunities, feel free to reach out to me:
+I'm Evgeny, an iOS developer. Always open for new opportunities, feel free to reach out to me:
 
 - Email: [e.seliverstov@outlook.com](mailto:e.seliverstov@outlook.com?subject=[GitHub]%20iOS%20Developer%20position)
 - LinkedIn: [linkedin.com/in/e-seliverstov/](https://www.linkedin.com/in/e-seliverstov/)
 
-<details>
-<summary>Some of projects I worked on</summary>
+Some of projects I worked on:
 
-### 1. Making credit card payments using an iOS device as a terminal
+### 1. Credit card payments using an iOS device as a terminal
 
 It uses an external terminal connected using the Lightning port, but all the transaction processing and communication with the bank are done on the iOS host device.
 
